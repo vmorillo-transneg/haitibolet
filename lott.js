@@ -1,5 +1,5 @@
 [
   {
-    "LottoResult": "92 26 51 37 20",
+    "LottoResult": "92 26 51",
   }
 ]
